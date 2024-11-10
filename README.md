@@ -4,7 +4,7 @@ A project aiming to compile every build of Pokémon Black &amp; White for every 
 You will need either `wbmirror.tar.gz` or `swanmirror.tar.gz`, and have a way to look at its revision history.
 1. Go to r2875, and obtain `effecteditor.srl` from `trunk/tools/effecteditor`.
 2. Using xdelta, use one of the patch files depending on the month you want to look at on `effecteditor.srl`.
-3. Use 7-zip to open up the newly patched file as an archive. You should see all the ROMs of the month you selected in that archive.
+3. Use 7-zip to open up the newly patched file as an archive. You should see all the ROMs of the month you selected in that archive. **BEWARE!** They can extract to several GBs large!
 
 An `.srl` file is identical to an `.nds` file, so emulators can open them up just fine. If your emulator isn't detecting it, rename the extension to `.nds`.
 ## Progress
