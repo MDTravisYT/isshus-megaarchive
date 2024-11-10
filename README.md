@@ -1,10 +1,15 @@
 # Isshu's MegaArchive
 A project aiming to compile every build of Pokémon Black &amp; White for every day of its development. All of these builds has been compiled by MDTravis, and will be actively updated as more gets done. Special thanks to starfrost and the TCRF Discord server!
 ## How to get things
-You will need either `wbmirror.tar.gz` or `swanmirror.tar.gz`, and have a way to look at its revision history.
+You will need: 
+- `wbmirror.tar.gz` or `swanmirror.tar.gz`
+- A way to look into an SVN repository
+- 7-Zip
+- A way to patch a file using xdelta
 1. Go to r2875, and obtain `effecteditor.srl` from `trunk/tools/effecteditor`.
-2. Using xdelta, use one of the patch files depending on the month you want to look at on `effecteditor.srl`.
-3. Use 7-zip to open up the newly patched file as an archive. You should see all the ROMs of the month you selected in that archive. **BEWARE!** They can extract to several GBs large!
+2. (skip if doing Aug or Sep 2008) Choose the folder of the month you want to look at, and use 7-Zip to extract the **first** file to get the xdelta patch.
+3. Using xdelta, use the patch file on `effecteditor.srl`.
+4. Use 7-Zip to open up the newly patched file as an archive. You should see all the ROMs of the month you selected in that archive. **BEWARE!** They can extract to several GBs large!
 
 An `.srl` file is identical to an `.nds` file, so emulators can open them up just fine. If your emulator isn't detecting it, rename the extension to `.nds`.
 ## Progress
