@@ -13,7 +13,11 @@ You will need:
 
 An `.srl` file is identical to an `.nds` file, so emulators can open them up just fine. If your emulator isn't detecting it, rename the extension to `.nds`.
 ## Progress
-- [x] August 2008 builds (r1249 to r1344)
+- [ ] April 2008 builds (TBD)
+- [ ] May 2008 builds (TBD)
+- [ ] June 2008 builds (r1188 - r1189)
+- [x] July 2008 builds (r1193 to r1227)
+- [x] August 2008 builds (r1232 to r1344)
 - [x] September 2008 builds (r1391 to r1493)
 - [x] October 2008 builds (r1504 to r1670)
 - [x] November 2008 builds (r1671 to r2037)
@@ -27,7 +31,7 @@ An `.srl` file is identical to an `.nds` file, so emulators can open them up jus
 - [x] July 2009 builds (r4843 to r6610)
 - [x] August 2009 builds (r6611 to r7253)
 - [x] September 2009 builds (r7277 to r8390)
-- [ ] October 2009 builds (r8463 to r11254)
+- [x] October 2009 builds (r8463 to r11254)
 - [ ] November 2009 builds (r11256 to r13200)
 - [ ] December 2009 builds (r13307 to r16466)
 - [ ] January 2010 builds (r16475 to r18683)
