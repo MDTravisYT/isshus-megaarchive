@@ -15,8 +15,8 @@ An `.srl` file is identical to an `.nds` file, so emulators can open them up jus
 ## Progress
 - [ ] April 2008 builds (TBD)
 - [ ] May 2008 builds (TBD)
-- [ ] June 2008 builds (TBD)
-- [ ] July 2008 builds (r1193 to r1227)
+- [ ] June 2008 builds (r1188 - r1189)
+- [x] July 2008 builds (r1193 to r1227)
 - [x] August 2008 builds (r1232 to r1344)
 - [x] September 2008 builds (r1391 to r1493)
 - [x] October 2008 builds (r1504 to r1670)
